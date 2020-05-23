@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PayrollComputation.Services
 {
-    interface IEmployeeService
+    public interface IEmployeeService
     {
         Task CreateAsync(EmployeeDet newEmployee);
         EmployeeDet GetById(int employeeId);

@@ -6,3 +6,11 @@ C:\Users\sanch\source\repos\PayrollComputation.Entity\obj\Debug\netcoreapp3.1\Pa
 C:\Users\sanch\source\repos\PayrollComputation.Entity\obj\Debug\netcoreapp3.1\PayrollComputation.Entity.AssemblyInfo.cs
 C:\Users\sanch\source\repos\PayrollComputation.Entity\obj\Debug\netcoreapp3.1\PayrollComputation.Entity.dll
 C:\Users\sanch\source\repos\PayrollComputation.Entity\obj\Debug\netcoreapp3.1\PayrollComputation.Entity.pdb
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Entity\bin\Debug\netcoreapp3.1\PayrollComputation.Entity.deps.json
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Entity\bin\Debug\netcoreapp3.1\PayrollComputation.Entity.dll
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Entity\bin\Debug\netcoreapp3.1\PayrollComputation.Entity.pdb
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Entity\obj\Debug\netcoreapp3.1\PayrollComputation.Entity.csprojAssemblyReference.cache
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Entity\obj\Debug\netcoreapp3.1\PayrollComputation.Entity.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Entity\obj\Debug\netcoreapp3.1\PayrollComputation.Entity.AssemblyInfo.cs
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Entity\obj\Debug\netcoreapp3.1\PayrollComputation.Entity.dll
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Entity\obj\Debug\netcoreapp3.1\PayrollComputation.Entity.pdb

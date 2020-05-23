@@ -11,3 +11,16 @@ C:\Users\sanch\source\repos\PayrollComputation.Persistence\bin\Debug\netcoreapp3
 C:\Users\sanch\source\repos\PayrollComputation.Persistence\obj\Debug\netcoreapp3.1\PayrollComputation.Persistence.csproj.CopyComplete
 C:\Users\sanch\source\repos\PayrollComputation.Persistence\obj\Debug\netcoreapp3.1\PayrollComputation.Persistence.dll
 C:\Users\sanch\source\repos\PayrollComputation.Persistence\obj\Debug\netcoreapp3.1\PayrollComputation.Persistence.pdb
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Persistence\bin\Debug\netcoreapp3.1\PayrollComputation.Persistence.deps.json
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Persistence\bin\Debug\netcoreapp3.1\PayrollComputation.Persistence.runtimeconfig.json
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Persistence\bin\Debug\netcoreapp3.1\PayrollComputation.Persistence.runtimeconfig.dev.json
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Persistence\bin\Debug\netcoreapp3.1\PayrollComputation.Persistence.dll
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Persistence\bin\Debug\netcoreapp3.1\PayrollComputation.Persistence.pdb
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Persistence\bin\Debug\netcoreapp3.1\PayrollComputation.Entity.dll
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Persistence\bin\Debug\netcoreapp3.1\PayrollComputation.Entity.pdb
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Persistence\obj\Debug\netcoreapp3.1\PayrollComputation.Persistence.csprojAssemblyReference.cache
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Persistence\obj\Debug\netcoreapp3.1\PayrollComputation.Persistence.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Persistence\obj\Debug\netcoreapp3.1\PayrollComputation.Persistence.AssemblyInfo.cs
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Persistence\obj\Debug\netcoreapp3.1\PayrollComputation.Persistence.csproj.CopyComplete
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Persistence\obj\Debug\netcoreapp3.1\PayrollComputation.Persistence.dll
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation.Persistence\obj\Debug\netcoreapp3.1\PayrollComputation.Persistence.pdb
