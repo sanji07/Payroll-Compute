@@ -1,0 +1,13 @@
+C:\Users\sanch\source\repos\PayrollComputation.Services\bin\Debug\netcoreapp3.1\PayrollComputation.Services.deps.json
+C:\Users\sanch\source\repos\PayrollComputation.Services\bin\Debug\netcoreapp3.1\PayrollComputation.Services.dll
+C:\Users\sanch\source\repos\PayrollComputation.Services\bin\Debug\netcoreapp3.1\PayrollComputation.Services.pdb
+C:\Users\sanch\source\repos\PayrollComputation.Services\bin\Debug\netcoreapp3.1\PayrollComputation.Entity.dll
+C:\Users\sanch\source\repos\PayrollComputation.Services\bin\Debug\netcoreapp3.1\PayrollComputation.Persistence.dll
+C:\Users\sanch\source\repos\PayrollComputation.Services\bin\Debug\netcoreapp3.1\PayrollComputation.Entity.pdb
+C:\Users\sanch\source\repos\PayrollComputation.Services\bin\Debug\netcoreapp3.1\PayrollComputation.Persistence.pdb
+C:\Users\sanch\source\repos\PayrollComputation.Services\obj\Debug\netcoreapp3.1\PayrollComputation.Services.csprojAssemblyReference.cache
+C:\Users\sanch\source\repos\PayrollComputation.Services\obj\Debug\netcoreapp3.1\PayrollComputation.Services.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\PayrollComputation.Services\obj\Debug\netcoreapp3.1\PayrollComputation.Services.AssemblyInfo.cs
+C:\Users\sanch\source\repos\PayrollComputation.Services\obj\Debug\netcoreapp3.1\PayrollComputation.Services.csproj.CopyComplete
+C:\Users\sanch\source\repos\PayrollComputation.Services\obj\Debug\netcoreapp3.1\PayrollComputation.Services.dll
+C:\Users\sanch\source\repos\PayrollComputation.Services\obj\Debug\netcoreapp3.1\PayrollComputation.Services.pdb
