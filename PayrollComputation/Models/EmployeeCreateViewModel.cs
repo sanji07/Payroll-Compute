@@ -1,26 +1,34 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using PayrollComputation.Entity;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace PayrollComputation.Entity
+namespace PayrollComputation.Models
 {
-    public class EmployeeDet
+    public class EmployeeCreateViewModel
     {
         public int Id { get; set; }
-        [Required]
+        [Required(ErrorMessage ="Required Field")]
         public string EmpId { get; set; }
-        [Required, MaxLength(50)]
+        [Required(ErrorMessage = "First Name is Required"), MaxLength(50)]
         public string FirstName { get; set; }
-        [Required, MaxLength(50)]
+        [Required(ErrorMessage = "Last Name is Required"), MaxLength(50)]
         public string LastName { get; set; }
-        public string Fullname { get; set; }
+        public string Fullname {
+            get
+            {
+                return (FirstName + " " + LastName).ToUpper();
+            }
+                }
         public string Gender { get; set; }
-        public string ImageUrl { get; set; }
+        public IFormFile ImageUrl { get; set; }
         public DateTime DOB { get; set; }
         public string Designation { get; set; }
         public string Email { get; set; }
-        public DateTime DOJ { get; set; }
+        public DateTime DOJ { get; set; } = DateTime.UtcNow;
         [Required, MaxLength(10)]
         public int TFN { get; set; }
         public PaymentMethod paymentMethod { get; set; }
@@ -32,8 +40,5 @@ namespace PayrollComputation.Entity
         [Required, MaxLength(4)]
         public string POcode { get; set; }
         public string Phone { get; set; }
-        public List<PaymentRecord> PaymentRecords { get; set; }
-
-
     }
 }
