@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.7" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\PayrollComputation.Entity\PayrollComputation.Entity.csproj" />
     <ProjectReference Include="..\PayrollComputation.Persistence\PayrollComputation.Persistence.csproj" />
   </ItemGroup>
