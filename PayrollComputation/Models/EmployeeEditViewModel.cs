@@ -23,7 +23,7 @@ namespace PayrollComputation.Models
         public string Designation { get; set; }
         public string Email { get; set; }
         public DateTime DOJ { get; set; }
-        [Required, MaxLength(10)]
+        [Required]
         public int TFN { get; set; }
         public PaymentMethod paymentMethod { get; set; }
         public StudentLoan studentLoan { get; set; }

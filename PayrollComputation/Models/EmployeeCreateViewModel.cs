@@ -35,9 +35,9 @@ namespace PayrollComputation.Models
         public StudentLoan studentLoan { get; set; }
         [Required]
         public string Address { get; set; }
-        [Required]
+        [Required, MaxLength(3)]
         public string City { get; set; }
-        [Required]
+        [Required, MaxLength(4)]
         public string POcode { get; set; }
         public string Phone { get; set; }
     }
