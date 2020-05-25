@@ -29,15 +29,15 @@ namespace PayrollComputation.Models
         public string Designation { get; set; }
         public string Email { get; set; }
         public DateTime DOJ { get; set; } = DateTime.UtcNow;
-        [Required, MaxLength(10)]
+        [Required]
         public int TFN { get; set; }
         public PaymentMethod paymentMethod { get; set; }
         public StudentLoan studentLoan { get; set; }
-        [Required, MaxLength(150)]
+        [Required]
         public string Address { get; set; }
-        [Required, MaxLength(3)]
+        [Required]
         public string City { get; set; }
-        [Required, MaxLength(4)]
+        [Required]
         public string POcode { get; set; }
         public string Phone { get; set; }
     }

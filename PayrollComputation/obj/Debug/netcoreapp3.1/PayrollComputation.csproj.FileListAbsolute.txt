@@ -247,3 +247,4 @@ C:\Users\sanch\source\repos\PayrollApp\PayrollComputation\bin\Debug\netcoreapp3.
 C:\Users\sanch\source\repos\PayrollApp\PayrollComputation\obj\Debug\netcoreapp3.1\PayrollComputation.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\sanch\source\repos\PayrollApp\PayrollComputation\obj\Debug\netcoreapp3.1\PayrollComputation.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\sanch\source\repos\PayrollApp\PayrollComputation\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\sanch\source\repos\PayrollApp\PayrollComputation\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs

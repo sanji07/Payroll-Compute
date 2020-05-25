@@ -17,9 +17,8 @@ namespace PayrollComputation.Services.Implementation
         }
         public async Task CreateAsync(EmployeeDet newEmployee)
         {
-           await _context.EmployeeDets.AddAsync(newEmployee);
-          await _context.SaveChangesAsync();
-            throw new NotImplementedException();
+          await _context.EmployeeDets.AddAsync(newEmployee);
+          await _context.SaveChangesAsync();         
         }
         public EmployeeDet GetById(int employeeId) =>
             _context.EmployeeDets.Where(e => e.Id == employeeId).FirstOrDefault();

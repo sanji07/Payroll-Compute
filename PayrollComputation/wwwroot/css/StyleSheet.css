@@ -29667,13 +29667,25 @@ div.tagsinput {
         color: #1b2658;
     }
 
-    .navbar .navbar-brand-wrapper .navbar-brand img {
-        /*width: calc(255px - 130px);
-        max-width: 100%;*/
-        /*height: 54px;*/
+    .navbar .navbar-brand-wrapper .navbar-brand {
+        background-image:url("../images/logo.png");
+        background-size:80px;
+       
+        background-repeat:no-repeat;
+        width: calc(255px - 130px);
+        max-width: 100%;
+        height: 54px;
         margin: auto;
         vertical-align: middle;
     }
+
+img {
+    width: calc(255px - 130px);
+    max-width: 100%;
+    height: 54px;
+    margin: auto;
+    vertical-align: middle;
+}
 
 .navbar .navbar-brand-wrapper .brand-logo-mini {
     padding-left: 0;
