@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Hosting.Internal;
 using PayrollComputation.Entity;
@@ -14,8 +15,8 @@ namespace PayrollComputation.Controllers
     public class EmployeeController : Controller
     {
         private readonly IEmployeeService _employeeServices;
-        private readonly HostingEnvironment _hostingEnvironment;
-        public EmployeeController(IEmployeeService employeeService, HostingEnvironment hostingEnvironment)
+        private readonly IHostingEnvironment _hostingEnvironment;
+        public EmployeeController(IEmployeeService employeeService, IHostingEnvironment hostingEnvironment)
         {
             _employeeServices = employeeService;
             _hostingEnvironment = hostingEnvironment;
@@ -28,10 +29,10 @@ namespace PayrollComputation.Controllers
                 EmpId = employee.EmpId,
                 FullName = employee.Fullname,
                 Designation = employee.Designation,
-                ImageUrl = employee.ImageUrl,
+                ImageUrl = employee.ImageUrl,                
                 DOJ = employee.DOJ,
                 Gender = employee.Gender,
-                City = employee.City
+                City = employee.City,                
             }).ToList();
 
             return View(employee);
